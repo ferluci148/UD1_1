@@ -1,0 +1,16 @@
+Q:\DAW_2021_2022\CURSOS _AZURE\IncionC#\Consola\Consola\bin\Debug\net5.0\Consola.exe
+Q:\DAW_2021_2022\CURSOS _AZURE\IncionC#\Consola\Consola\bin\Debug\net5.0\Consola.deps.json
+Q:\DAW_2021_2022\CURSOS _AZURE\IncionC#\Consola\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
+Q:\DAW_2021_2022\CURSOS _AZURE\IncionC#\Consola\Consola\bin\Debug\net5.0\Consola.runtimeconfig.dev.json
+Q:\DAW_2021_2022\CURSOS _AZURE\IncionC#\Consola\Consola\bin\Debug\net5.0\Consola.dll
+Q:\DAW_2021_2022\CURSOS _AZURE\IncionC#\Consola\Consola\bin\Debug\net5.0\ref\Consola.dll
+Q:\DAW_2021_2022\CURSOS _AZURE\IncionC#\Consola\Consola\bin\Debug\net5.0\Consola.pdb
+Q:\DAW_2021_2022\CURSOS _AZURE\IncionC#\Consola\Consola\obj\Debug\net5.0\Consola.csprojAssemblyReference.cache
+Q:\DAW_2021_2022\CURSOS _AZURE\IncionC#\Consola\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+Q:\DAW_2021_2022\CURSOS _AZURE\IncionC#\Consola\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+Q:\DAW_2021_2022\CURSOS _AZURE\IncionC#\Consola\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+Q:\DAW_2021_2022\CURSOS _AZURE\IncionC#\Consola\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
+Q:\DAW_2021_2022\CURSOS _AZURE\IncionC#\Consola\Consola\obj\Debug\net5.0\Consola.dll
+Q:\DAW_2021_2022\CURSOS _AZURE\IncionC#\Consola\Consola\obj\Debug\net5.0\ref\Consola.dll
+Q:\DAW_2021_2022\CURSOS _AZURE\IncionC#\Consola\Consola\obj\Debug\net5.0\Consola.pdb
+Q:\DAW_2021_2022\CURSOS _AZURE\IncionC#\Consola\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
